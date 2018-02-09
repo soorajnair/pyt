@@ -1,0 +1,2 @@
+Project,Name,private_ip_address,EnvType,instance_type,key_name,OS,placement,subnet_id,vpc_id
+N/A,pyth practise,172.31.75.216,N/A,t2.micro,Lamp,N/A,us-east-1c,subnet-ce72c0e2,vpc-68ba0911
