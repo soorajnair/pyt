@@ -1,0 +1,56 @@
+https://stackoverflow.com/questions/17301938/making-a-request-to-a-restful-api-using-python
+
+https://developer.atlassian.com/server/fisheye-crucible/writing-a-rest-client-in-python/
+
+urllib2.HTTPPasswordMgr
+
+30 Things to Do After Minimal RHEL/CentOS 7 Installation
+https://www.tecmint.com/things-to-do-after-minimal-rhel-centos-7-installation/#C5
+
+RESTful Web Services Tutorial
+https://www.tutorialspoint.com/restful/index.htm
+
+Subscriber Periodic Synchronisation · Poppulo Developers
+https://developer.poppulo.com/api-common/api-subscriber-periodic-synchronisation.html
+
+Subscriber Interactive Synchronisation · Poppulo Developers
+https://developer.poppulo.com/api-common/api-subscriber-interactive-synchronisation.html
+
+Create Subscriber Import Job · Poppulo Developers
+https://developer.poppulo.com/api-calls/api-create-subscriber-import-job.html
+
+Subscriber Import Job · Poppulo Developers
+https://developer.poppulo.com/api-entities/api-subscriber-import-job.html#reffn_1
+
+Import Mapping · Poppulo Developers
+https://developer.poppulo.com/api-glossary/api-import-mapping.html#canonical-columns
+
+Status · Poppulo Developers
+https://developer.poppulo.com/api-entities/api-status.html
+
+Untitled-1
+file:///D:/Downloads/Compressed/121558127.pdf
+
+Inbox - sooraj.nair742@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+API Integration in Python – Part 1 – Real Python
+https://realpython.com/api-integration-in-python/
+
+Python API tutorial — An Introduction to using APIs
+https://www.dataquest.io/blog/python-api-tutorial/
+
+Using APIs with Python Requests Module
+http://engineering.hackerearth.com/2014/08/21/python-requests-module/
+
+20.6. urllib2 — extensible library for opening URLs — Python 2.7.15 documentation
+https://docs.python.org/2/library/urllib2.html
+
+urllib2 vs requests
+https://gist.github.com/kennethreitz/973705
+
+Advanced Usage — Requests 2.18.4 documentation
+http://docs.python-requests.org/en/master/user/advanced/#session-objects
+
+Poppulo Customer Login
+https://login.eu.poppulo-app.com/login/jwt-login/login.do
